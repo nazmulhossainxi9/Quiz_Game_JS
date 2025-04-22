@@ -3,8 +3,8 @@ let questions = [
         question: "When does Sheikh Hasina fall down from Bangladesh?",
         answer: [
             {text: "4th August, 2025", correct: false},
-            {text: "5th August, 2024", correct: false},
-            {text: "5th August, 2025", correct: true},
+            {text: "5th August, 2024", correct: true},
+            {text: "5th August, 2025", correct: false},
             {text: "30th July, 2025", correct: false},
         ]
     },
